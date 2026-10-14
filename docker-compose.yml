@@ -2,12 +2,15 @@ services:
   postgres:
     image: postgres:15
     container_name: data_assistant_db
+
     environment:
-      POSTGRES_USER: admin
-      POSTGRES_PASSWORD: secret123
-      POSTGRES_DB: data_assistant
+      POSTGRES_USER: ${DB_USER:-admin}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?Set DB_PASSWORD in .env}
+      POSTGRES_DB: ${DB_NAME:-data_assistant}
+
     ports:
-      - "5432:5432"
+      - "127.0.0.1:5432:5432"
+
     volumes:
       - pg_data:/var/lib/postgresql/data
 
