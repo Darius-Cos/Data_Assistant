@@ -1,0 +1,51 @@
+company_id,name,address,city,state,zip_code,phone_number,industry,website
+1,Tech Solutions Inc.,123 Main Street,Anytown,CA,91234,555-123-4567,Software Development,www.techsolutions.com
+2,Global Manufacturing Co.,456 Industrial Blvd,Springfield,IL,62704,555-987-6543,Manufacturing,www.globalmfg.com
+3,Acme Retail Group,789 Commerce Ave,Metropolis,NY,10001,555-555-1111,Retail,www.acmeretail.com
+4,HealthFirst Corp.,101 Medical Plaza,Houston,TX,77030,555-222-3333,Healthcare,www.healthfirst.org
+5,Financial Services Ltd.,222 Wall Street,New York,NY,10005,555-444-5555,Finance,www.financialservices.net
+6,Green Energy Solutions,333 Renewable Rd,San Francisco,CA,94105,555-666-7777,Renewable Energy,www.greenenergy.com
+7,Education Systems Inc.,444 Academic Way,Boston,MA,02115,555-777-8888,Education,www.educationsystems.edu
+8,Transportation Logistics,555 Cargo Lane,Chicago,IL,60601,555-888-9999,Logistics,www.transportationlogistics.com
+9,Food Processing Corp.,666 Agri Drive,Des Moines,IA,50309,555-111-2222,Food Processing,www.foodprocessing.com
+10,Media Entertainment Group,777 Hollywood Blvd,Los Angeles,CA,90028,555-333-4444,Entertainment,www.mediaentertainment.com
+11,Construction Builders LLC,888 Builder Street,Phoenix,AZ,85004,555-444-7777,Construction,www.constructionbuilders.com
+12,Advanced Research Labs,999 Science Park,San Diego,CA,92121,555-555-8888,Research and Development,www.advancedresearch.org
+13,Tourism Adventures Inc.,111 Tourist Trail,Orlando,FL,32801,555-666-9999,Tourism,www.tourismadventures.com
+14,Chemical Solutions Corp.,222 Chemical Dr,Philadelphia,PA,19103,555-777-1111,Chemicals,www.chemicalsolutions.com
+15,Automotive Innovations Ltd.,333 Motorway,Detroit,MI,48202,555-888-2222,Automotive,www.automotiveinnovations.com
+16,Premier Staffing Agency,444 Recruit Plaza,Atlanta,GA,30303,555-999-3333,Human Resources,www.premierstaffing.com
+17,Elite Marketing Firm,555 Ad Avenue,Miami,FL,33131,555-123-5555,Marketing,www.elitemarketing.com
+18,Secure Data Systems,666 Cyber Lane,Seattle,WA,98101,555-234-6666,Cybersecurity,www.securedatasystems.com
+19,Precision Engineering,777 Design Street,Denver,CO,80202,555-345-7777,Engineering,www.precisionengineering.com
+20,United Consulting Group,888 Strategy Rd,Washington,DC,20005,555-456-8888,Consulting,www.unitedconsulting.com
+21,Sunrise Coffee Roasters,999 Bean Blvd,Portland,OR,97204,555-567-9999,Food and Beverage,www.sunrisecoffee.com
+22,Evergreen Landscaping,111 Green Lane,Sacramento,CA,95814,555-678-1111,Landscaping,www.evergreenlandscaping.com
+23,Stellar Accounting Services,222 Ledger Ave,Austin,TX,78701,555-789-2222,Accounting,www.stellaraccounting.com
+24,Coastal Realty Group,333 Ocean View,San Diego,CA,92101,555-890-3333,Real Estate,www.coastalrealty.com
+25,Summit Fitness Centers,444 Workout Way,Salt Lake City,UT,84101,555-901-4444,Fitness,www.summitfitness.com
+26,Acme Corp,123 Main St,Anytown,CA,91234,555-123-4567,Technology,www.acme.com
+27,Beta Industries,456 Oak Ave,Sometown,NY,10001,212-555-7890,Finance,www.betaind.net
+28,Gamma Solutions,789 Pine Ln,Otherville,TX,75001,972-555-2345,Consulting,www.gammasolutions.org
+29,Delta Group,101 Elm St,Springfield,IL,62704,217-555-6789,Manufacturing,www.deltagroup.com
+30,Epsilon Systems,222 Maple Ave,Riverdale,GA,30303,404-555-0123,Software,www.epsilonsystems.io
+31,Zeta Corp,333 Cherry Ln,Hill Valley,WA,98101,206-555-3456,Retail,www.zetacorp.com
+32,Eta Industries,444 Oak St,Pleasantville,NJ,07001,973-555-7890,Healthcare,www.etaind.com
+33,Theta Solutions,555 Pine Ave,Sunnyvale,CA,94087,408-555-2345,Technology,www.thetasolutions.net
+34,Iota Group,666 Elm Ln,Austin,TX,78701,512-555-6789,Finance,www.iotagroup.org
+35,Kappa Systems,777 Maple St,Chicago,IL,60601,312-555-0123,Consulting,www.kappasystems.com
+36,Lambda Corp,888 Cherry Ave,Miami,FL,33101,305-555-3456,Manufacturing,www.lambdacorp.io
+37,Mu Industries,999 Oak Ln,Denver,CO,80202,303-555-7890,Software,www.muind.net
+38,Nu Solutions,111 Pine St,Phoenix,AZ,85001,602-555-2345,Retail,www.nusolutions.org
+39,Xi Group,222 Elm Ave,Philadelphia,PA,19102,215-555-6789,Healthcare,www.xigroup.com
+40,Omicron Systems,333 Maple Ln,San Diego,CA,92101,619-555-0123,Technology,www.omicronsystems.io
+41,Pi Corp,444 Cherry St,Portland,OR,97204,503-555-3456,Finance,www.picorp.com
+42,Rho Industries,555 Oak Ave,Nashville,TN,37203,615-555-7890,Consulting,www.rhoind.net
+43,Sigma Solutions,666 Pine Ln,San Antonio,TX,78205,210-555-2345,Manufacturing,www.sigmasolutions.org
+44,Tau Group,777 Elm St,Las Vegas,NV,89101,702-555-6789,Software,www.taugroup.com
+45,Upsilon Systems,888 Maple Ave,Raleigh,NC,27601,919-555-0123,Retail,www.upsilonsystems.io
+46,Phi Corp,999 Cherry Ln,Columbus,OH,43215,614-555-3456,Healthcare,www.phicorp.com
+47,Chi Industries,101 Oak St,Kansas City,MO,64106,816-555-7890,Technology,www.chiind.net
+48,Psi Solutions,222 Pine Ave,Baltimore,MD,21201,410-555-2345,Finance,www.psisolutions.org
+49,Omega Group,333 Elm Ln,Milwaukee,WI,53202,414-555-6789,Consulting,www.omegagroup.com
+50,Innovation Inc.,444 Maple St,Hartford,CT,06103,860-555-0123,Manufacturing,www.innovationinc.io

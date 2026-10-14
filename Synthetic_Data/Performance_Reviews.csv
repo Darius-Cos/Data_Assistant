@@ -1,0 +1,51 @@
+review_id,employee_id,reviewer_id,review_date,rating,comments,goals_set,review_status
+1,3,8,2023-12-15,4,Exceeds expectations in project management.,Improve team communication skills.,Final
+2,7,2,2024-01-20,3,Meets expectations in software development.,Learn new programming languages.,Approved
+3,12,5,2023-11-10,5,Outstanding performance in data analysis.,Lead a data science project.,Final
+4,18,1,2024-02-05,2,Needs improvement in customer service.,Attend customer service training.,Draft
+5,2,10,2023-10-28,4,Excellent communication skills.,Present at a company-wide meeting.,Approved
+6,15,4,2024-03-12,3,Consistent performance in marketing campaigns.,Develop a new marketing strategy.,Final
+7,9,6,2023-09-01,5,Exceptional leadership abilities.,Mentor junior team members.,Approved
+8,1,9,2024-04-18,4,Strong problem-solving skills.,Lead a cross-functional team.,Draft
+9,11,3,2023-08-05,3,Good teamwork and collaboration.,Improve time management skills.,Final
+10,6,7,2024-05-22,2,Needs to improve attention to detail.,Attend a workshop on quality control.,Approved
+11,19,11,2023-07-10,5,Innovative thinking and creativity.,Present a new product idea.,Final
+12,4,12,2024-06-26,4,Effective in client relationship management.,Expand client portfolio.,Draft
+13,14,13,2023-06-01,3,Reliable and dependable team member.,Improve technical writing skills.,Final
+14,21,14,2024-07-03,1,Needs significant improvement in performance.,Develop a performance improvement plan.,Approved
+15,8,15,2023-05-05,5,Exceptional technical expertise.,Lead a research and development project.,Final
+16,10,16,2024-08-09,4,Good at training new employees.,Create training modules for new hires.,Draft
+17,16,17,2023-04-12,3,Consistently meets deadlines.,Improve presentation skills.,Final
+18,23,18,2024-09-15,2,Needs to improve communication with stakeholders.,Attend a communication workshop.,Approved
+19,5,19,2023-03-20,5,Excellent at strategic planning.,Lead a strategic planning initiative.,Final
+20,20,20,2024-10-21,4,Good at managing budgets.,Manage a larger project budget.,Draft
+21,13,21,2023-02-25,3,Reliable and dedicated.,Improve data analysis skills.,Final
+22,25,22,2024-11-28,1,Performance is below expectations.,Complete a performance improvement plan.,Approved
+23,17,23,2023-01-01,5,Exceptional leadership skills.,Mentor junior employees.,Final
+24,22,24,2024-12-05,4,Good project management skills.,Manage a larger project.,Draft
+25,24,25,2023-01-15,3,Meets expectations.,,Final
+1,26,27,2023-12-15,4,Exceeded expectations in Q4. Strong teamwork skills.,"Improve presentation skills, mentor junior team members.",Final
+2,27,28,2023-12-15,5,Outstanding performance. Consistently delivers high-quality work.,"Lead a new project, explore advanced technologies.",Approved
+3,28,29,2023-12-15,3,Meets expectations. Needs to improve time management.,"Attend time management workshop, improve communication skills.",Final
+4,29,30,2023-12-15,4,Good performance. Shows initiative and problem-solving skills.,"Take on more challenging tasks, develop leadership skills.",Approved
+5,30,31,2023-12-15,2,Needs improvement. Requires more attention to detail.,"Seek guidance from senior colleagues, improve accuracy.",Draft
+6,31,32,2023-12-15,5,Exceptional performance. A valuable asset to the team.,"Present at industry conference, mentor new hires.",Approved
+7,32,33,2023-12-15,3,Meets expectations. Could be more proactive.,"Participate in brainstorming sessions, take ownership of tasks.",Final
+8,33,34,2023-12-15,4,Strong performance. Demonstrates good technical skills.,"Learn new programming language, contribute to open-source project.",Approved
+9,34,35,2023-12-15,2,Needs significant improvement. Requires closer supervision.,"Attend training courses, improve work ethic.",Draft
+10,35,26,2023-12-15,5,Excellent performance. A role model for other employees.,"Lead a cross-functional team, develop new products.",Approved
+11,36,27,2023-12-15,3,Meets expectations.,Improve documentation skills.,Final
+12,37,28,2023-12-15,4,Good performance overall.,Take on more responsibilities.,Approved
+13,38,29,2023-12-15,5,Exceptional.,Mentor new team members.,Approved
+14,39,30,2023-12-15,3,,Improve communication.,Final
+15,40,31,2023-12-15,4,Strong performer.,,Approved
+16,41,32,2023-12-15,2,Needs Improvement,Attend training.,Draft
+17,42,33,2023-12-15,5,,Lead new initiatives,Approved
+18,43,34,2023-12-15,3,On track,Complete project on time,Final
+19,44,35,2023-12-15,4,Excellent work,,Approved
+20,45,26,2023-12-15,2,Needs more focus,Improve focus,Draft
+21,46,27,2023-12-15,4,Good performer.,Enhance Presentation skills,Approved
+22,47,28,2023-12-15,5,Exceptional at work,,Approved
+23,48,29,2023-12-15,3,Meets Expectations,Improve time management,Final
+24,49,30,2023-12-15,4,,Take on more responsibilities,Approved
+25,50,31,2023-12-15,2,Needs improvement,Attend training,Draft

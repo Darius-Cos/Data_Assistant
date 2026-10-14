@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,middle_name,email,phone_number,hire_date,job_title,department_id,salary,employment_status
+1,Alice,Johnson,Marie,alice.johnson@example.com,555-123-4567,2020-01-15,Software Engineer,1,80000.0,Full-time
+2,Bob,Smith,Lee,bob.smith@example.com,555-987-6543,2021-03-01,Data Analyst,2,70000.0,Full-time
+3,Charlie,Brown,,charlie.brown@example.com,,2022-05-20,Project Manager,3,90000.0,Full-time
+4,Diana,Miller,Rose,diana.miller@example.com,555-246-8013,2023-07-10,Marketing Specialist,4,60000.0,Full-time
+5,Ethan,Davis,,ethan.davis@example.com,555-135-7912,2020-09-05,Sales Representative,5,55000.0,Full-time
+6,Fiona,Wilson,Grace,fiona.wilson@example.com,555-369-1212,2021-11-15,HR Manager,6,85000.0,Full-time
+7,George,Taylor,,george.taylor@example.com,555-800-2000,2022-01-25,Financial Analyst,2,75000.0,Full-time
+8,Hannah,Anderson,Jane,hannah.anderson@example.com,,2023-04-01,Customer Support Specialist,5,45000.0,Full-time
+9,Isaac,Thomas,,isaac.thomas@example.com,555-777-8888,2020-06-10,Network Engineer,1,95000.0,Full-time
+10,Julia,Jackson,Lynn,julia.jackson@example.com,555-444-5555,2021-08-20,Office Assistant,6,35000.0,Part-time
+11,Kevin,White,,kevin.white@example.com,555-666-7777,2022-10-01,Software Developer,1,82000.0,Full-time
+12,Laura,Harris,Anne,laura.harris@example.com,555-111-2222,2023-01-05,Data Scientist,2,92000.0,Full-time
+13,Michael,Martin,,michael.martin@example.com,,2020-12-10,Product Manager,3,100000.0,Full-time
+14,Nancy,Thompson,Sue,nancy.thompson@example.com,555-999-0000,2021-04-15,Marketing Manager,4,78000.0,Full-time
+15,Oliver,Garcia,,oliver.garcia@example.com,555-333-4444,2022-07-01,Sales Manager,5,72000.0,Full-time
+16,Patricia,Rodriguez,Kay,patricia.rodriguez@example.com,555-777-1111,2023-09-10,Recruiter,6,68000.0,Full-time
+17,Quentin,Williams,,quentin.williams@example.com,555-222-9999,2020-03-01,Database Administrator,1,88000.0,Full-time
+18,Rachel,Jones,Elizabeth,rachel.jones@example.com,555-555-1212,2021-05-20,Business Analyst,2,73000.0,Full-time
+19,Samuel,Brown,,samuel.brown@example.com,555-888-3333,2022-08-15,Scrum Master,3,97000.0,Full-time
+20,Tiffany,Green,Nicole,tiffany.green@example.com,,2023-11-01,Social Media Manager,4,63000.0,Full-time
+21,Victor,Hall,,victor.hall@example.com,555-444-9999,2020-02-15,Account Executive,5,60000.0,Full-time
+22,Wendy,Wright,Sue,wendy.wright@example.com,555-111-5555,2021-06-01,Benefits Administrator,6,65000.0,Full-time
+23,Xavier,King,,xavier.king@example.com,555-999-3333,2022-09-20,Security Engineer,1,91000.0,Full-time
+24,Yasmine,Reed,Marie,yasmine.reed@example.com,,2023-12-01,Market Research Analyst,4,58000.0,Full-time
+25,Zachary,Cooper,,zachary.cooper@example.com,555-333-7777,2020-04-10,Technical Support Specialist,1,50000.0,Full-time
+26,Alice,Johnson,Marie,alice.johnson@example.com,555-123-4567,2022-01-15,Software Engineer,1,85000.0,Full-time
+27,Bob,Smith,,bob.smith@example.com,555-987-6543,2021-05-20,Data Analyst,2,70000.0,Full-time
+28,Charlie,Brown,David,charlie.brown@example.com,,2023-03-10,Project Manager,3,95000.0,Full-time
+29,Diana,Davis,,diana.davis@example.com,555-246-8013,2022-09-01,Marketing Specialist,4,60000.0,Full-time
+30,Ethan,Wilson,James,ethan.wilson@example.com,555-369-1215,2023-07-01,Sales Representative,5,55000.0,Full-time
+31,Fiona,Garcia,,fiona.garcia@example.com,,2022-04-05,HR Manager,6,80000.0,Full-time
+32,George,Rodriguez,Michael,george.rodriguez@example.com,555-789-3456,2021-11-10,Accountant,7,65000.0,Full-time
+33,Hannah,Williams,,hannah.williams@example.com,555-432-1098,2023-01-20,Customer Service Rep,8,45000.0,Full-time
+34,Ivy,Jones,Rose,ivy.jones@example.com,555-876-5432,2022-06-15,UX Designer,1,75000.0,Full-time
+35,Jack,Brown,,jack.brown@example.com,,2021-09-01,Network Engineer,9,90000.0,Full-time
+36,Kelly,Miller,Anne,kelly.miller@example.com,555-210-9876,2023-04-10,Software Developer,1,88000.0,Full-time
+37,Liam,Davis,,liam.davis@example.com,555-543-2109,2022-12-01,Financial Analyst,7,72000.0,Full-time
+38,Mia,Wilson,Grace,mia.wilson@example.com,555-901-2345,2023-08-15,Social Media Manager,4,58000.0,Full-time
+39,Noah,Garcia,,noah.garcia@example.com,,2021-07-01,Data Scientist,2,100000.0,Full-time
+40,Olivia,Rodriguez,Jane,olivia.rodriguez@example.com,555-678-9012,2022-02-28,Office Manager,6,50000.0,Full-time
+41,Peter,Anderson,,peter.anderson@example.com,555-111-2222,2023-09-01,Intern,1,30000.0,Part-time
+42,Quinn,Thompson,Elizabeth,quinn.thompson@example.com,555-333-4444,2022-07-15,Consultant,3,120000.0,Contract
+43,Ryan,White,,ryan.white@example.com,555-555-6666,2023-05-01,Technical Writer,9,62000.0,Full-time
+44,Sophia,Hall,Marie,sophia.hall@example.com,,2021-12-20,Graphic Designer,4,57000.0,Full-time
+45,Thomas,Young,,thomas.young@example.com,555-777-8888,2022-08-01,Sales Manager,5,92000.0,Full-time
+46,Uma,King,Rose,uma.king@example.com,555-999-0000,2023-02-15,Recruiter,6,68000.0,Full-time
+47,Victor,Wright,,victor.wright@example.com,,2021-10-01,Senior Accountant,7,82000.0,Full-time
+48,Wendy,Green,Sue,wendy.green@example.com,555-222-3333,2022-05-01,Customer Support Lead,8,53000.0,Full-time
+49,Xavier,Adams,,xavier.adams@example.com,555-444-5555,2023-06-01,Security Engineer,9,98000.0,Full-time
+50,Yara,Hill,Belle,yara.hill@example.com,,2021-08-01,Junior Developer,1,67000.0,Full-time

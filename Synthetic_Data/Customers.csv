@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,phone_number,address,city,state,zip_code,registration_date
+1,Alice,Smith,alice.smith@example.com,555-123-4567,123 Main St,Anytown,CA,91234,2023-01-15 10:30:00
+2,Bob,Johnson,bob.johnson@example.com,555-987-6543,456 Oak Ave,Springfield,IL,62704,2023-02-20 14:45:00
+3,Charlie,Brown,charlie.brown@example.com,,789 Pine Ln,Hill Valley,CA,90210,2023-03-10 08:00:00
+4,Diana,Davis,diana.davis@example.com,555-222-3333,101 Elm St,Gotham,NY,10001,2023-04-05 16:15:00
+5,Ethan,Wilson,ethan.wilson@example.com,555-444-5555,222 Maple Dr,Metropolis,DC,20002,2023-05-12 12:00:00
+6,Fiona,Garcia,fiona.garcia@example.com,555-666-7777,333 Cedar Rd,Smallville,KS,66601,2023-06-22 09:30:00
+7,George,Rodriguez,george.rodriguez@example.com,,444 Birch Ct,Liberty City,FL,33101,2023-07-01 18:45:00
+8,Hannah,Williams,hannah.williams@example.com,555-888-9999,555 Willow Way,Vice City,FL,33139,2023-08-18 11:15:00
+9,Isaac,Jones,isaac.jones@example.com,555-111-2222,666 Cherry Ln,Los Santos,CA,90001,2023-09-03 15:00:00
+10,Julia,Martinez,julia.martinez@example.com,555-333-4444,777 Walnut St,San Fierro,CA,94101,2023-10-27 07:30:00
+11,Kevin,Anderson,kevin.anderson@example.com,,888 Oak St,Las Venturas,NV,89109,2023-11-14 13:45:00
+12,Laura,Thomas,laura.thomas@example.com,555-555-6666,999 Pine Ave,Raccoon City,MI,48000,2023-12-01 19:00:00
+13,Michael,Jackson,michael.jackson@example.com,555-777-8888,1000 Maple Dr,Silent Hill,ME,04000,2024-01-08 10:00:00
+14,Nancy,White,nancy.white@example.com,,1111 Cedar Rd,Arkham,MA,02100,2024-02-15 16:30:00
+15,Oliver,Harris,oliver.harris@example.com,555-999-0000,1212 Birch Ct,Midgar,GA,30303,2024-03-03 08:45:00
+16,Patricia,Martin,patricia.martin@example.com,,1313 Willow Way,Spira,TX,75000,2024-04-20 12:15:00
+17,Quentin,Thompson,quentin.thompson@example.com,555-222-4444,1414 Cherry Ln,Pallet Town,WA,98000,2024-05-07 17:00:00
+18,Rachel,Garcia,rachel.garcia@example.com,555-444-6666,1515 Walnut St,Twinleaf Town,OR,97000,2024-06-14 09:30:00
+19,Samuel,Lee,samuel.lee@example.com,,1616 Oak St,New Bark Town,NC,27000,2024-07-01 14:45:00
+20,Tina,Hall,tina.hall@example.com,555-666-8888,1717 Pine Ave,Littleroot Town,AZ,85000,2024-08-18 11:00:00
+21,Uma,Young,uma.young@example.com,555-888-0000,,Iki Town,HI,96700,2024-09-04 18:15:00
+22,Victor,King,victor.king@example.com,555-000-2222,1919 Cedar Rd,Postwick,ID,83200,2024-10-22 07:30:00
+23,Wendy,Wright,wendy.wright@example.com,,2020 Birch Ct,Hammerlocke,UT,84000,2024-11-09 13:45:00
+24,Xavier,Lopez,xavier.lopez@example.com,555-333-5555,2121 Willow Way,Motostoke,NM,87000,2024-12-26 19:00:00
+25,Yara,Hill,yara.hill@example.com,555-555-7777,2222 Cherry Ln,Wyndon,CO,80000,2025-01-02 10:00:00
+26,Alice,Smith,alice.smith@example.com,555-123-4567,123 Main St,Anytown,CA,91234,2023-01-15 10:00:00
+27,Bob,Johnson,bob.johnson@example.com,555-987-6543,456 Oak Ave,Springfield,IL,62704,2023-02-20 14:30:00
+28,Charlie,Brown,charlie.brown@example.com,,789 Pine Ln,Hill Valley,CA,90210,2023-03-01 08:00:00
+29,Diana,Davis,diana.davis@example.com,555-246-8013,101 Elm St,Gotham,NY,10001,2023-03-15 16:45:00
+30,Ethan,Wilson,ethan.wilson@example.com,555-369-1215,,Metropolis,IL,60601,2023-04-01 12:00:00
+31,Fiona,Garcia,fiona.garcia@example.com,555-481-6218,222 Maple Dr,Sunnyvale,CA,94087,2023-04-15 09:15:00
+32,George,Rodriguez,george.rodriguez@example.com,,333 Cherry Ave,Austin,TX,78701,2023-05-01 18:00:00
+33,Hannah,Lopez,hannah.lopez@example.com,555-505-7221,444 Birch Rd,Seattle,WA,98101,2023-05-15 11:30:00
+34,Isaac,Martinez,isaac.martinez@example.com,555-616-8224,555 Willow St,Miami,FL,33101,2023-06-01 15:45:00
+35,Julia,Hernandez,julia.hernandez@example.com,555-727-9227,666 Oak St,Denver,CO,80202,2023-06-15 07:00:00
+36,Kevin,Moore,kevin.moore@example.com,,777 Pine Ave,Portland,OR,97201,2023-07-01 13:15:00
+37,Laura,Jackson,laura.jackson@example.com,555-838-0230,888 Elm Rd,Phoenix,AZ,85001,2023-07-15 19:30:00
+38,Michael,White,michael.white@example.com,555-949-1233,999 Maple Ln,San Diego,CA,92101,2023-08-01 10:45:00
+39,Nancy,Harris,nancy.harris@example.com,555-050-2236,111 Cherry St,Boston,MA,02101,2023-08-15 14:00:00
+40,Oliver,Martin,oliver.martin@example.com,,,Chicago,IL,60611,2023-09-01 17:15:00
+41,Patricia,Thompson,patricia.thompson@example.com,555-161-3239,222 Birch Ave,Atlanta,GA,30303,2023-09-15 08:30:00
+42,Quentin,Garcia,quentin.garcia@example.com,555-272-4242,333 Willow Rd,Dallas,TX,75201,2023-10-01 11:45:00
+43,Rachel,Clark,rachel.clark@example.com,555-383-5245,444 Oak Ln,Houston,TX,77002,2023-10-15 15:00:00
+44,Samuel,Lewis,samuel.lewis@example.com,,555 Pine St,Philadelphia,PA,19102,2023-11-01 19:15:00
+45,Tiffany,Hall,tiffany.hall@example.com,555-494-6248,666 Elm Ave,San Francisco,CA,94105,2023-11-15 09:30:00
+46,Victor,Young,victor.young@example.com,555-505-7251,777 Maple Dr,Baltimore,MD,21201,2023-12-01 12:45:00
+47,Wendy,King,wendy.king@example.com,555-616-8254,,Charlotte,NC,28202,2023-12-15 16:00:00
+48,Xavier,Wright,xavier.wright@example.com,555-727-9257,999 Oak St,Nashville,TN,37203,2024-01-01 07:15:00
+49,Yasmine,Hill,yasmine.hill@example.com,555-838-0260,1010 Pine Ave,Las Vegas,NV,89101,2024-01-15 13:30:00
+50,Zachary,Green,zachary.green@example.com,,1111 Elm Rd,Columbus,OH,43215,2024-02-01 18:45:00
